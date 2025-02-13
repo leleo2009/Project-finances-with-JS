@@ -20,8 +20,8 @@ Antes de iniciar, certifique-se de ter o [Node.js](https://nodejs.org/en/) insta
 
 ## Instalação
 
-1.  Clone este repositório: `git clone [link do repositório]`
-2.  Acesse o diretório do projeto: `cd [nome do projeto]`
+1.  Clone este repositório: `git clone [https://github.com/leleo2009/Project-finances-with-JS]`
+2.  Acesse o diretório do projeto: `cd [Project-finances-with-JS]`
 3.  Instale as dependências do backend: `npm install`
 4.  Instale as dependências do frontend: `npm install` (se necessário)
 
